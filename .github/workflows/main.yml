@@ -2,7 +2,7 @@
 
 name: Semantic Release
 
-permissiones:
+permissions:
   contents: write
 
 # Controls when the workflow will run
