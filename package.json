@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "homepage": "https://fernando-herrera.com/paulccuno",
   "repository": {
-    "url": "https://github.com/paulccuno/react-ts-storybook",
+    "url": "https://github.com/paulccuno/react-ts-storybook.git",
     "type": "git"
   },
   "release": {
